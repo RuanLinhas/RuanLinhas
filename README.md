@@ -2,8 +2,8 @@
 - 👀 I’m interested in progamming
 - 🌱 I’m currently learning html,css,javascript,php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
+- 📫 How to reach me 7836752@gmail.com
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I'm poor
 
 <!---
